@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+.app{
+  min-height: 100vh;
+  display: grid;
+  background: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
